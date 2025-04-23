@@ -9,11 +9,7 @@ public class Q3_VowelConsonant {
         char ch = 'a';
 
         switch (ch) {
-            case 'a':
-            case 'e':
-            case 'i':
-            case 'o':
-            case 'u':
+            case 'a': case 'e': case 'i': case 'o': case 'u':
                 System.out.println("Vowel");
                 break;
             default:
